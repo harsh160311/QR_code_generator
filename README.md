@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harsh160311/QR_code_generator/main/pic.png
+  <img src="https://github.com/harsh160311/QR_code_generator/blob/main/pic.png
   " alt="QR Code Generator Logo" width="200">
 </div>
 
